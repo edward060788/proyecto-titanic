@@ -100,6 +100,6 @@ python main.py
 
 ## 👤 Autor
 
-**[Tu nombre]**  
+**[edward Ramon Torres Alvarez]**  
 Proyecto Final — Curso de Python y Análisis de Datos  
-[Año]
+[2026]
